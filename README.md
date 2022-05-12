@@ -1,2 +1,2 @@
 # simple-calculator
-for calculations
+for calculation
